@@ -28,6 +28,3 @@ Please refer to our documentation for detailed instructions on how to use Auth3.
 
 If you encounter any issues or have questions about Auth3.0, please create an issue on our issue tracker.
 
-## License
-
-Auth3.0 is licensed under [Zuraverse].
