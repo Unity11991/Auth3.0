@@ -22,7 +22,6 @@ Auth3.0 is a Web3 Social Auth SDK designed to simplify the onboarding process fo
 
 ## Documentation
 
-Please refer to our documentation for detailed instructions on how to use Auth3.0.
 
 ## Support
 
